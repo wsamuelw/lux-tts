@@ -1,6 +1,6 @@
 # 🎙️ LuxTTS - Voice Cloning in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/#create=true)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wsamuelw/LuxTTS/blob/main/Voice%20Clone%20Demo)
 
 A step-by-step guide to clone any voice using **LuxTTS** (Lux Text-to-Speech) in Google Colab. Generate realistic speech synthesis with voice cloning capabilities—no local GPU required!
 
